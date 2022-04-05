@@ -63,9 +63,9 @@ export const LayoutCos = () => {
             padding: 24,
             margin: 0,
             minHeight: 280,
-          }}
-        >
-          Content
+          }
+        }
+        > 
         </Content>
       </Layout>
     </Layout>
